@@ -1,0 +1,33 @@
+body {
+    background-color: gold;
+}
+
+h1 {
+    text-align: center;
+    font-family: monospace;
+}
+
+h3 {
+    text-align: center;
+    font-family: monospace;
+}
+
+.navagational-links {
+    text-align: center;
+    font-family: georgia;
+    color: darkgreen;
+}
+
+
+.croissant-img {
+    display: block;
+    justify-content: center;
+}
+a {
+    padding: 5px;
+}
+
+.email-link {
+    text-align: center;
+    color: darkred;
+}
